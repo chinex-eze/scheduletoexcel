@@ -1,2 +1,11 @@
 scheduletoexcel
 ===============
+                      SCHEDULE TO EXCEL WEB APPLICATION 
+This is a mini web application I developed some time ago to help my friends and I 
+to convert our work schedule from plain text format to a more readable, well-arranged 
+excel spread sheet.
+
+Workers receieved their work schedules in text format via email. The schedule is copied 
+and pasted on the web site or saved as a text .txt file and uploaded to the site. 
+The application then converts this to an excel spread sheet with formulas for calculating 
+total hours. The excel file is then sent back to user. 
